@@ -1,0 +1,32 @@
+.container{
+    max-width: 400px;
+    padding: 20px;
+    margin: 50px auto;
+    background-color: rgb(224, 247, 249);
+    border-radius: 10px;
+    margin-top: 200px;
+    box-shadow: rgb(20, 24, 24) ;
+    
+}
+
+.form{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 15px;
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    border-radius: 5px;
+}
+
+.btn{
+    background-color: rgb(175, 184, 184);
+    cursor: pointer;
+}
+
+.link {
+    justify-content: center;
+    text-align: center;
+    margin-top: 15px
+}
